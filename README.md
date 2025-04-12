@@ -29,12 +29,12 @@ Hindi-Story-Generator/
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   Already included in .ipynb file
    ```
 
 3. Open the Jupyter notebook:
    ```bash
-   jupyter notebook L&T_Fine_tuning.ipynb
+   jupyter notebook Hindi_text_generator.ipynb
    ```
 
 ## 📊 Model Fine-Tuning
