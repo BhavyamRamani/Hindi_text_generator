@@ -13,10 +13,9 @@ The **Hindi Story Generator** is an AI-powered tool that generates creative and 
 
 ```
 Hindi-Story-Generator/
-├── L&T_Fine_tuning.ipynb    # Notebook for fine-tuning and generation
-├── data/                    # Folder for training data (Hindi stories)
-├── outputs/                 # Generated stories
-└── README.md                # Project documentation
+├── Hindi_text_generator.ipynb    # Notebook for fine-tuning and generation
+├── Premchand - Godan2.1.txt      # Folder for training data (Hindi stories)        
+└── README.md                     # Project documentation
 ```
 
 ## 🛠️ Setup
