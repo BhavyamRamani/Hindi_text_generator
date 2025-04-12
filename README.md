@@ -59,4 +59,4 @@ Made with ❤️ for Hindi storytelling.
 
 ## 👥 Contributors
 
-- **D001 - Ajwad Ansari**
+- **Bhavyam Ramani**
